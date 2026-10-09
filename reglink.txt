@@ -1,0 +1,5 @@
+this is a file for checking the link file
+it forwards the data from the original file to link file
+lets test about this link is updated in the link file
+yes updated
+lets check for rename 
